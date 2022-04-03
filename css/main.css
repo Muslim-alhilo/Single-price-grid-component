@@ -13,7 +13,7 @@ body {
 }
 .grid {
     width: 700px;
-    margin: 120px auto;
+    margin: 120px auto 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 0.7fr 1fr;
